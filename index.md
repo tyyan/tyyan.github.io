@@ -8,11 +8,11 @@ Hi, I'm Tom :)
 
 My research interests are broadly in multi-agent learning, involving players or models with agency.
 
-## Contact
+## Contact 
 
-email: tyyan@[my school].edu
+Email: tyyan@[my school].edu
 
-## Publications and working papers
+## Publications and Working Papers
 
 _Paper title_\
 Authors\
