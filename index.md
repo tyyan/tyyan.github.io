@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, I'm Tom.
+Hi, I'm Tom :)
 
 ## Research
 
