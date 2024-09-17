@@ -6,7 +6,7 @@ Hi, I'm Tom.
 
 ## Research
 
-My research interests.
+My research interests are broadly in multi-agent learning, involving players or models with agency.
 
 ## Contact
 
