@@ -2,19 +2,31 @@
 layout: default
 ---
 
-Hi, I'm Tom :)
+Hi! I'm a PhD student at [CMU MLD](https://www.ml.cmu.edu/). My advisor is Zachary Lipton.
 
 ## Research
 
-My research interests are broadly in multi-agent learning, involving players or models with agency.
+My research interest is broadly in multi-agent learning, and machine learning settings involving multiple players and/or models with agency. These days I'm particularly excited by agents!
 
-## Contact 
+## Contact Information 
 
-Email: tyyan@[my school].edu
+Email: tyyan@[school].edu
 
-## Publications and Working Papers
+## Selected Publications 
 
-_Paper title_\
-Authors\
-_Conference_ [Tag](https://www.google.com/)
+**A theoretical case-study of Scalable Oversight in Hierarchical Reinforcement Learning**\
+_T.Yan, Z.Lipton_\
+NeurIPS 2024 [coming soon]()
+
+**The Human-AI Substitution game: active learning from a strategic labeler**\
+_T Yan, C Zhang_\
+ICLR 2024 [ICLR proceedings](https://openreview.net/pdf?id=s5hSp7EdL3)
+
+**Discovering Optimal Scoring Mechanisms in Causal Strategic Prediction**\
+_T Yan, S Gupta, Z Lipton_\
+under review [arxiv](https://arxiv.org/pdf/2302.06804)
+
+**Active fairness auditing**\
+_T Yan, C Zhang_\
+ICML 2022[ICML proceedings](https://proceedings.mlr.press/v162/yan22c/yan22c.pdf)
 
