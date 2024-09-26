@@ -6,7 +6,8 @@ Hi! I'm currently a PhD student at [CMU MLD](https://www.ml.cmu.edu/). My adviso
 
 ## Research
 
-My research interest is broadly in multi-agent learning, and machine learning settings involving multiple players and/or models with agency. These days I'm particularly excited by agents!
+My research interest is broadly in multi-agent learning and ML settings involving multiple players and/or models with agency. 
+These days I'm particularly excited by agents!
 
 ## Contact Information 
 
@@ -24,7 +25,7 @@ _T.Yan, C.Zhang_\
 
 **Discovering Optimal Scoring Mechanisms in Causal Strategic Prediction**\
 _T.Yan, S.Gupta, Z.Lipton_\
-[under review](https://arxiv.org/pdf/2302.06804)
+[arxiv](https://arxiv.org/pdf/2302.06804)
 
 **Active fairness auditing**\
 _T.Yan, C.Zhang_\
