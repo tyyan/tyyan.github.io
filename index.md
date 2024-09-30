@@ -6,14 +6,13 @@ Hi! I'm currently a PhD student at [CMU MLD](https://www.ml.cmu.edu/). My adviso
 
 ## Research
 
-My research interest is broadly in multi-agent learning and ML settings involving multiple players and/or models with agency. 
-These days I'm particularly excited by agents!
+My research interest is broadly in multi-agent learning and ML settings involving multiple players/models with agency, often motivated by issues at the intersection of AI and Society. These days I'm particularly excited by agents!
 
 ## Contact Information 
 
 Email: tyyan@[school].edu
 
-## Selected Publications 
+## Selected Favorite Publications 
 
 **A theoretical case-study of Scalable Oversight in Hierarchical Reinforcement Learning**\
 _T.Yan, Z.Lipton_\
